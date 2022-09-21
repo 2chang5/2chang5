@@ -28,7 +28,7 @@ hobby : wrestling, ju-jitsu
 -
 <a href="https://mccoy-devloper.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> [멧돼지의 개발블로그](https://mccoy-devloper.tistory.com/)
 
-<a href="https://caf-android.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory Blog-7f8fa6?style=flat-square&logo=Tistory&logoColor=white"/></a> [앙큼이 여우 스터디 팀블로그](https://caf-android.tistory.com/)
+<a href="https://iced-handbell-76a.notion.site/8d92163da781463eb2bfeb73c637b37a?v=47ecea691f1a48eeb471c5d2473f47f7" target="_blank"><img src="https://img.shields.io/badge/Notion-7f8fa6?style=flat-square&logo=Notion&logoColor=white"/></a> [앙큼이 여우 스터디 노션](https://iced-handbell-76a.notion.site/8d92163da781463eb2bfeb73c637b37a?v=47ecea691f1a48eeb471c5d2473f47f7)
 
 📎Project,Activity🖇
 -
