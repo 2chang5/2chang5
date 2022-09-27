@@ -105,6 +105,10 @@ hobby : wrestling, ju-jitsu
 > 
 > -object animator 를 통한 edittext 포커스시 화면전환 구현
 
+> 2-6 생명관련 업데이트
+> 
+> GA를 통한 사용자 지표를 분석하여 생명관련 시스템 업데이트 1.0.2
+
 
 </div>
 </details>
