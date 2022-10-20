@@ -41,7 +41,7 @@ hobby : wrestling, ju-jitsu
 -   2022
     -   3월~8월 :  SOPT 30기 Android 파트 활동 [30기 과제](https://github.com/macbook-plz-30th-THE-SOPT-android-team4/30th-ChangHwan)
     -   4월~9월 :  [READ-ME](https://github.com/TEAM-README) Android 개발로 참여 (2022.10월 출시완료)
-    -   7월~ :  [Photo-Surfer](https://github.com/TeamPhotoSurfer) Android 리드로 참여 (현재 개발중)
+    -   7월~ :  [Photo-Surfer](https://github.com/TeamPhotoSurfer) Android 리드로 참여 
  
 ### -프로젝트별 기술 및 담당 개발사항 정리
 <details>
