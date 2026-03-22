@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=4cd137&height300&section=header&text=창환's%20GIT&fontSize=60)
 
 🐷profile
 ------- 
@@ -9,7 +8,7 @@
 
 Android Developer
 
-hobby : wrestling, ju-jitsu
+hobby : wrestling, ju-jitsu, kick-boxing, mma
 
 portfolio : https://2chang5.github.io/
 
@@ -21,10 +20,6 @@ portfolio : https://2chang5.github.io/
  📌used as the main
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Java-40739e?style=for-the-badge&logo=&logoColor=white">
-
-❗️used at least once
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/Vue-FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 
 
 
@@ -60,8 +55,11 @@ portfolio : https://2chang5.github.io/
 
   -   2월~11월 : 우아한형제들에서 진행한 안드로이드 개발자 교육 양성 과정 **우아한테크코스** 진행
   -   6월~11월:  [TripDraw](https://github.com/woowacourse-teams/2023-trip-draw)프로젝트 Android 리드로 참여
+  -   12월 ~ : 넛지 헬스케어 안드로이드 개발자 재직
 
-  
+- 2025
+
+    - 11월 ~ : 넛지헬스케어 안드로이드 3파트 파트장 수행
 
 
 ### 프로젝트별 기술 및 담당 개발사항 정리
