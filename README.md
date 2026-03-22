@@ -10,8 +10,6 @@ Android Developer
 
 hobby : wrestling, ju-jitsu, kick-boxing, mma
 
-portfolio : https://2chang5.github.io/
-
 
 
 ✍️TechStack
